@@ -2,9 +2,7 @@
   <img src="icon.png" width="104" alt="记得">
   <h1>记得 · 事件提醒</h1>
   <p><em>写下来，就不用一直记在脑子里。</em></p>
-  <p>
-    <a href="https://599xiangsu.github.io/jide/jide-reminder-1.3.apk"><img src="https://img.shields.io/badge/下载-最新版%20v1.3-B45309?style=for-the-badge" alt="下载"></a>
-  </p>
+  <p><a href="https://599xiangsu.github.io/jide/jide-reminder-1.3.apk"><b>点此下载最新版 v1.3</b></a></p>
   <p>Android 5.1 及以上 · 约 3 MB · 完全离线 · 不需要注册</p>
 </div>
 
@@ -13,6 +11,9 @@
 ## 👉 [点这里下载最新版 v1.3](https://599xiangsu.github.io/jide/jide-reminder-1.3.apk)
 
 在手机上打开这个链接即可下载安装。
+
+> 如果上面两个链接点不动，直接复制这个地址到手机浏览器：
+> <https://599xiangsu.github.io/jide/jide-reminder-1.3.apk>
 
 ---
 
