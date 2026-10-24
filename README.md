@@ -2,18 +2,18 @@
   <img src="icon.png" width="104" alt="记得">
   <h1>记得 · 事件提醒</h1>
   <p><em>写下来，就不用一直记在脑子里。</em></p>
-  <p><a href="https://599xiangsu.github.io/jide/jide-reminder-1.8.apk"><b>点此下载最新版 v1.8</b></a></p>
+  <p><a href="https://599xiangsu.github.io/jide/jide-reminder-1.9.apk"><b>点此下载最新版 v1.9</b></a></p>
   <p>Android 5.1 及以上 · 约 3 MB · 完全离线 · 不需要注册</p>
 </div>
 
 ---
 
-## 👉 [点这里下载最新版 v1.8](https://599xiangsu.github.io/jide/jide-reminder-1.8.apk)
+## 👉 [点这里下载最新版 v1.9](https://599xiangsu.github.io/jide/jide-reminder-1.9.apk)
 
 在手机上打开这个链接即可下载安装。
 
 > 如果上面两个链接点不动，直接复制这个地址到手机浏览器：
-> <https://599xiangsu.github.io/jide/jide-reminder-1.8.apk>
+> <https://599xiangsu.github.io/jide/jide-reminder-1.9.apk>
 
 ---
 
@@ -74,6 +74,13 @@ App 里的「设置 → 后台提醒自检」可以直接看到当前状态（�
 
 这是「强制」与「自定义后台音色」之间只能二选一的地方，默认选了强制。
 
+### 一个使用提示（不是 bug）
+
+**不要**在系统设置的「应用信息」里点「强行停止」。安卓规定：被强行停止的应用，
+在你自己手动再次打开它之前，不再接收任何闹钟和广播 —— 这是系统行为，还会让你以为提醒坏了。
+
+要让它彻底停止提醒，请用 App 里「设置 → 强制闹钟」那个开关。
+
 ## 隐私
 
 - **不联网、不上传、没有账号、没有广告**
@@ -94,4 +101,4 @@ App 启动约 6 秒后会自动检查新版本。发现新版会弹出更新说�
 
 ---
 
-<sub>当前版本 v1.8（versionCode 9）</sub>
+<sub>当前版本 v1.9（versionCode 10）</sub>
