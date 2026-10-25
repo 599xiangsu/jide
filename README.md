@@ -2,18 +2,18 @@
   <img src="icon.png" width="104" alt="记得">
   <h1>记得 · 事件提醒</h1>
   <p><em>写下来，就不用一直记在脑子里。</em></p>
-  <p><a href="https://599xiangsu.github.io/jide/jide-reminder-2.7.apk"><b>点此下载最新版 v2.7</b></a></p>
+  <p><a href="https://599xiangsu.github.io/jide/jide-reminder-3.0.apk"><b>点此下载最新版 v3.0</b></a></p>
   <p>Android 5.1 及以上 · 约 3 MB · 完全离线 · 不需要注册</p>
 </div>
 
 ---
 
-## 👉 [点这里下载最新版 v2.7](https://599xiangsu.github.io/jide/jide-reminder-2.7.apk)
+## 👉 [点这里下载最新版 v3.0](https://599xiangsu.github.io/jide/jide-reminder-3.0.apk)
 
 在手机上打开这个链接即可下载安装。
 
 > 如果上面两个链接点不动，直接复制这个地址到手机浏览器：
-> <https://599xiangsu.github.io/jide/jide-reminder-2.7.apk>
+> <https://599xiangsu.github.io/jide/jide-reminder-3.0.apk>
 
 ---
 
@@ -101,4 +101,4 @@ App 启动约 6 秒后会自动检查新版本。发现新版会弹出更新说�
 
 ---
 
-<sub>当前版本 v2.7（versionCode 20）</sub>
+<sub>当前版本 v3.0（versionCode 21）</sub>
